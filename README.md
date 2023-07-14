@@ -4,10 +4,10 @@
 
 # Setting
 - Enter the psql and create the postgreSQL database
-   ```sh
+```sh
   psql postgres
   CREATE DATABASE breads;
-  ```
+```
 - DATABASE setting
 ```sh
 host:localhost  
